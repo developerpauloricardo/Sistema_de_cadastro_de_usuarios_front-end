@@ -1,6 +1,6 @@
 <img alt='Logo do projeto' src='.github/cadastro.jpg'>
 
-# Sistema de Cadastro de Usuários
+# Sistema de Cadastro de Usuários | Front-end
 
 Este projeto é uma aplicação completa de cadastro de usuários com autenticação. Usuários podem se registrar, fazer login e acessar uma área privada com listagem de dados. O back-end foi desenvolvido com Node.js e MongoDB, e o front-end com React e Tailwind CSS.
 
@@ -65,7 +65,7 @@ O **Sistema de Cadastro de Usuários** permite que usuários se registrem, faça
 ### Clone o repositório
 
 ```bash
-git clone 
+ git clone https://github.com/your-username/repository-name.git 
 ```
 
 ## 📄 Licença
